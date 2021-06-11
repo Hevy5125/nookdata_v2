@@ -177,16 +177,16 @@
             "ground_snowball": "地上で（スノーボールを押す）",
             "ground_leaf": "木に下で（家具に変装）",
             "ground_beach": "ビーチで（貝殻に変装）",
-            "ground_wharf": "On the rocks found on the beach",
+            "ground_wharf": "海で見つけた岩の上",
             "flowers": "花に",
             "flowers_white": "白い花に",
             "underground": "地中（可聴、それを見つけるために発掘）",
-            "water": "On ponds and rivers",
-            "food": "On spoilt turnips",
-            "junk": "On spoilt turnips and fishing junk",
-            "heads": "On islanders' heads",
-            "on_rocks": "On rocks",
-            "under_rocks": "Under rocks (revealed when the rock is hit)"
+            "water": "池や川に",
+            "food": "チューリップで陳腐だ",
+            "junk": "チューリップで陳腐や釣りのごみに",
+            "heads": "島民のあたまに",
+            "on_rocks": "岩で",
+            "under_rocks": "岩の下に（岩が叩く明らかに）"
         }
     },
     "fish": {
@@ -355,7 +355,7 @@
             "coelacanth": "<big><big>Blast from the past!</big></big><br>I caught a coelacanth! Think positive! Be a coela-CAN!"
         },
         "location": {
-            "river": "In rivers",
+            "river": "川中に",
             "river_cliff": "In clifftop rivers",
             "river_mouth": "In the mouths of rivers",
             "salmon": "In the mouths of rivers during the first half of September;\nAnywhere in rivers during the second half of September",
